@@ -1,0 +1,35 @@
+body{
+    background-color: #b6d8d9;
+}
+
+#main{
+    width: 960px;
+    background-color: #ffffff;
+    margin: auto;
+    padding: 20px;
+    /* padding-top: 10px;
+    padding-right: 15px;
+    padding-left: 25px;
+    padding-bottom: 5px; */
+}
+
+.info-table, td, th {
+    border: 1px solid #cccccc;    
+    border-collapse: collapse;
+    padding: 5px;
+    
+}
+.info-table th {
+    background-color: #ece7d7;
+}
+.info-table td {
+    background-color: #f5f4f2;
+}
+.info-table td ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+.info-block {
+    background-color: #dddddd;
+}
